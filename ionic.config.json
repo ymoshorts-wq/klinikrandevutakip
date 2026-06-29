@@ -1,7 +1,0 @@
-{
-  "name": "klinik",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "custom"
-}
